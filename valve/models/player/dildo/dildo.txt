@@ -1,0 +1,16 @@
+February 8, 2011  Dildo Skin by Miley Demasturbot
+
+Place dildo.mdl, dildo.bmp and dildo.txt in a new folder
+called dildo in valve\models\player folder in your Half-Life
+directory.
+
+Feel free to contact me: valerique9@gmail.com
+
+CREDITS:
+Gloves were taken from Pomchop's Mr. Peanut skin.
+
+** IMPORTANT NOTICE **
+This model SHOULD BE distributed in any kind of commercial
+compilation, product or package without my personal approval.
+You can also extract the skin and draw a mustache and release it
+to the world as yours.
